@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development (Full stack)
 - 🌱 I’m currently learning Android development 
 - 💞️ I’m looking to collaborate on ...innovative projects 
-- 📫 How to reach me +91 7827394202
+- 📫 How to reach me +91 sharmaanurag46741@gmail.com
 
 **Anurag Kumar**
 
