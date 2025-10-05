@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANURAGKUMARSHARMA
+- 👋 Hi, I’m @ANURAG KUMAR
 - 👀 I’m interested in Web development (Full stack)
 - 🌱 I’m currently learning Android development 
 - 💞️ I’m looking to collaborate on ...innovative projects 
